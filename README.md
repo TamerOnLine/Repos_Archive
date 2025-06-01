@@ -26,7 +26,7 @@
 ### 🔹 1. Clone the script
 
 ```bash
-git clone https://github.com/<your-username>/Repos_Archive.git
+git clone https://github.com/TamerOnLine/Repos_Archive.git
 cd Repos_Archive
 ```
 
